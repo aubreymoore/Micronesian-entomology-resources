@@ -20,10 +20,11 @@ This repository facilitates sharing online resources for Micronesian entomology
 * to document spread of recently discovered invasive species
 * as a teaching tool. My students used iNat to catalog their collections.
 
-**Suggested improvement:**
+**Suggested improvement:** Always wanted to put on a public workshop on using iNaturalist and to organize a bioblitz but never got around to this.
 
 ## [General Entomology Course Website](https://aubreymoore.github.io/ALBI-345/)
 
-**Description:** 
+**Description:** I developed and maintained this class website for free using GitHub Pages.
 
-**Suggested improvement:**
+**Suggested improvement:** In recent years, UOG has encouraged instructors to use 
+ 
