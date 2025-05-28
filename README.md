@@ -3,7 +3,7 @@ This repository facilitates sharing online resources for Micronesian entomology
 
 ## [UOG Insect Collection Database](https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180)
 
-**Description:** The University of Guam insect collection uses SCAN ([Symbiota Collections of Arthropods Network](https://scan-bugs.org/portal/index.php)) as an online catalogue. SCAN was selected because it is totally web based and [it automatically pushes data to GBIF](https://scan-bugs.org/portal/collections/datasets/datapublisher.php).
+**Description:** The University of Guam insect collection uses SCAN ([Symbiota Collections of Arthropods Network](https://scan-bugs.org/portal/index.php)) as an online catalogue. SCAN was selected because it is totally web based and [it automatically pushes data to GBIF](http://www.gbif.org/dataset/56e311e3-43c6-4b99-aa21-af396074d5e3).
 
 **Suggested improvement:** The database would be greatly enhanced by adding digital images of the specimens. I suggest starting by imaging a single specimen for each identified species.
 
