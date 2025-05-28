@@ -9,9 +9,9 @@ This repository facilitates sharing online resources for Micronesian entomology
 
 ## [List of Insects and Mites Attacking Crops in Micronesia](https://aubreymoore.github.io/crop-pest-list/)
 
-**Description:** 
+**Description:** This list was originally compiled by Dr. Don Nafus and Dr. Ilse Schreiner, former entomologists at the University of Guam. With permission from the authors, I put this online in the late 1990s while working at Northern Marianas College (NMC).
 
-**Suggested improvement:**
+**Suggested improvement:** The list is badly in need of updating following recent arrival of new pests in Micronesia, geographical range expansions within the region and name changes. Addition of links to fact sheets, pests images, damage symptom images, and available control methods would be a big improvement.
 
 ## [iNaturalist Project: Insects of Micronesia](https://www.inaturalist.org/projects/insects-of-micronesia)
 
