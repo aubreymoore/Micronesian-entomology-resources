@@ -7,6 +7,8 @@ This repository facilitates sharing online resources for Micronesian entomology
 
 **Suggested improvement:** The database would be greatly enhanced by adding digital images of the specimens. I suggest starting by imaging a single specimen for each identified species.
 
+**Reference:** [Symbiota documentation](https://biokic.github.io/symbiota-docs/)
+
 ## [List of Insects and Mites Attacking Crops in Micronesia](https://aubreymoore.github.io/crop-pest-list/)
 
 **Description:** This list was originally compiled by Dr. Don Nafus and Dr. Ilse Schreiner, former entomologists at the University of Guam. With permission from the authors, I put this online in the late 1990s while working at Northern Marianas College (NMC).
