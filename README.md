@@ -9,7 +9,7 @@ This repository facilitates sharing online resources for Micronesian entomology
 
 **References:** 
 * [EPSCOR Biorepository proposal](references/UOG-insect-collection.pdf)
-* https://aubreymoore.github.io/McIntire-Stennis/final-report-2022/McIntire-Stennis-final-report-2022.pdf
+* [Final Report: McIntire-Stennis Project GUA0930: Building a Terrestrial Biodiversity Inventory for Guam](https://aubreymoore.github.io/McIntire-Stennis/final-report-2022/McIntire-Stennis-final-report-2022.pdf)
 * [Symbiota documentation](https://biokic.github.io/symbiota-docs/)
 * https://github.com/aubreymoore/SCAN-Symbiota-insect-pin-label-generator
 * https://github.com/aubreymoore/custom-upload-to-SCAN-Symbiota
