@@ -8,6 +8,7 @@ This repository facilitates sharing online resources for Micronesian entomology
 **Suggested improvement:** The database would be greatly enhanced by adding digital images of the specimens. I suggest starting by imaging a single specimen for each identified species.
 
 **References:** 
+* EPSCOR Biorepository proposal
 * [Symbiota documentation](https://biokic.github.io/symbiota-docs/)
 * https://github.com/aubreymoore/SCAN-Symbiota-insect-pin-label-generator
 * https://github.com/aubreymoore/custom-upload-to-SCAN-Symbiota
