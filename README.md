@@ -20,7 +20,7 @@ This repository facilitates sharing online resources for Micronesian entomology
 **Description:** I started this project in 2014 to facilitate identification of insects from digital photographs taken within Micronesia by clients. iNat quickly became a major tool for me:
 * to document insects observed/collected during field visits
 * to document spread of recently discovered invasive species
-* as a teaching tool. My students used iNat to catalog their collections.
+* as a teaching tool. My students used iNat to catalog their collections and to learn about insect taxonomy.
 
 **Suggested improvement:** Always wanted to put on a public workshop on using iNaturalist and to organize a bioblitz but never got around to this.
 
