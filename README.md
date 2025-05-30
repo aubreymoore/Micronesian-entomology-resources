@@ -1,5 +1,5 @@
 # Micronesian-entomology-resources
-This repository facilitates sharing online resources for Micronesian entomology
+[This repository](https://github.com/aubreymoore/Micronesian-entomology-resources) facilitates sharing online resources for Micronesian entomology
 
 ## [UOG Insect Collection Database](https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180)
 
