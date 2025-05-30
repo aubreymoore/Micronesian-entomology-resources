@@ -37,4 +37,6 @@ This repository facilitates sharing online resources for Micronesian entomology.
 **Description:** I developed and maintained this class website for free using GitHub Pages.
 
 **Suggested improvement:** In recent years, UOG has encouraged instructors to use Moodle, which may be preferable. Moving content should be easy.
+
+x
  
