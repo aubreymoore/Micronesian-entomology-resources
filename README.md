@@ -1,8 +1,6 @@
 # Micronesian-entomology-resources
 
-[Repository](https://github.com/aubreymoore/Micronesian-entomology-resources) 
-
-[GitHub pages](https://aubreymoore.github.io/Micronesian-entomology-resources)
+[Repository](https://github.com/aubreymoore/Micronesian-entomology-resources) [GitHub pages](https://aubreymoore.github.io/Micronesian-entomology-resources)
 
 This repository facilitates sharing online resources for Micronesian entomology.
 
