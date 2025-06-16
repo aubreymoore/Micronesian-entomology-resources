@@ -46,9 +46,4 @@ This repository facilitates sharing online resources for Micronesian entomology.
 
 * [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
 * [Species Report for the Mariana Wandering Butterfly *Vagrans egistina*](https://ecos.fws.gov/docs/recovery_plan/Vagrans%20egistina_SR.pdf)
-
-
-
-
-Butterflies of Micronesia
  
