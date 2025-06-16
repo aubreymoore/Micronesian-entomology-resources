@@ -38,5 +38,17 @@ This repository facilitates sharing online resources for Micronesian entomology.
 
 **Suggested improvement:** In recent years, UOG has encouraged instructors to use Moodle, which may be preferable. Moving content should be easy.
 
-x
+## Rare Butterflies
+
+### *Vagans egistina*
+
+**Referencess**
+
+* [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
+* [Species Report for the Mariana Wandering Butterfly *Vagrans egistina*](https://ecos.fws.gov/docs/recovery_plan/Vagrans%20egistina_SR.pdf)
+
+
+
+
+Butterflies of Micronesia
  
