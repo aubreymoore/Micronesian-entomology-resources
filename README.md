@@ -40,7 +40,7 @@ This repository facilitates sharing online resources for Micronesian entomology.
 
 ## Rare Butterflies
 
-### *Vagans egistina*
+### *Vagrans egistina*
 
 **Referencess**
 
