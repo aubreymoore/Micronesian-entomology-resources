@@ -38,9 +38,12 @@ This repository facilitates sharing online resources for Micronesian entomology.
 
 **Suggested improvement:** In recent years, UOG has encouraged instructors to use Moodle, which may be preferable. Moving content should be easy.
 
-## Miscellaneous
+## Early attempts to establish an online catalog for the UOG Insect Collection
 
-*[Slides from a talk on early attempts to establish an online catalog for the UOG Insect Collection](https://www.idigbio.org/wiki/images/a/aa/Scratchpads_iDigBio-part1.pdf)
+* [Prentation slides: Evaluation of a Scratchpad Template as an Online
+Database for the University of Guam Insect Collection - Part 1](https://www.idigbio.org/wiki/images/a/aa/Scratchpads_iDigBio-part1.pdf)
+* [Presentation slides: Evaluation of a Scratchpad Template as an Online
+Database for the University of Guam Insect Collection - Part 2](https://guaminsects.net/anr/sites/default/files/part2_0.pdf)
 
 ## Rare Butterflies
 
@@ -51,7 +54,9 @@ This repository facilitates sharing online resources for Micronesian entomology.
 * [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
 * [Species Report for the Mariana Wandering Butterfly *Vagrans egistina*](https://ecos.fws.gov/docs/recovery_plan/Vagrans%20egistina_SR.pdf)
 
- ## Nymphalidae: *Euploea eleutho*
+ ### Nymphalidae: *Euploea eleutho*
+
+ **References**
 
  * [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
  * [guaminsects.myspecies.info](https://guaminsects.myspecies.info/taxonomy/euploea-eleutho)
