@@ -45,6 +45,12 @@ Database for the University of Guam Insect Collection - Part 1](https://www.idig
 * [Presentation slides: Evaluation of a Scratchpad Template as an Online
 Database for the University of Guam Insect Collection - Part 2](https://guaminsects.net/anr/sites/default/files/part2_0.pdf)
 
+## Early Forensic Entomology Research on Guam
+
+The University of Guam Insect collection contaims a pinned specimen of a blowfly labelled "".
+This specimen is apparently from a study of insect succession in human corpses.
+This study is reported in [Filth-inhabiting Flies of Guam (G. E. Bohart and J. L. Gressitt 1951)](https://hbs.bpbmwebdata.org/pubs-online/pdf/bull204.pdf) and it is also described in [Life on a Little Known Planet (H. E. Evans 1968](https://archive.org/details/lifeonlittleknow0000evan/page/162/mode/2up?q=Guam).
+
 ## Rare Butterflies
 
 ### Nymphalidae: *Vagrans egistina*
