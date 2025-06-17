@@ -40,18 +40,18 @@ This repository facilitates sharing online resources for Micronesian entomology.
 
 ## Miscellaneous
 
-[Slides from a talk on early attempts to establish an online catalog for the UOG Insect Collection](https://www.idigbio.org/wiki/images/a/aa/Scratchpads_iDigBio-part1.pdf)
+*[Slides from a talk on early attempts to establish an online catalog for the UOG Insect Collection](https://www.idigbio.org/wiki/images/a/aa/Scratchpads_iDigBio-part1.pdf)
 
 ## Rare Butterflies
 
-### *Vagrans egistina*
+### Nymphalidae: *Vagrans egistina*
 
 **Referencess**
 
 * [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
 * [Species Report for the Mariana Wandering Butterfly *Vagrans egistina*](https://ecos.fws.gov/docs/recovery_plan/Vagrans%20egistina_SR.pdf)
 
- ## Nymohalidae: *Euploea eleutho*
+ ## Nymphalidae: *Euploea eleutho*
 
  * [Butterflies of Micronesia](https://www.uog.edu/_resources/files/wptrc/ButterfliesOfMicronesia.pdf)
  * [guaminsects.myspecies.info](https://guaminsects.myspecies.info/taxonomy/euploea-eleutho)
