@@ -68,7 +68,8 @@ This study is reported in [Filth-inhabiting Flies of Guam (G. E. Bohart and J. L
  * [guaminsects.myspecies.info](https://guaminsects.myspecies.info/taxonomy/euploea-eleutho)
  * [GBIF occurrences](https://www.gbif.org/occurrence/search?dataset_key=9298158c-3c02-4ba2-ab8a-87c7f9c8e70b&taxon_key=5137286)
 
-https://aubreymoore.github.io/blowfly.html
+[blowfly](blowfly.html)
+[rare-butterflies](rare_butterflies.html)
 
 
  
